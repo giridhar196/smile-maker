@@ -5,10 +5,10 @@ This app shows up a joke every time when the user opens it. The user can login, 
 
 ## Client
 ## Team Members and their roles
-- Vyshnavi Tadipaneni as Project Manager.
-- Giridhar Addagalla as Developer.
-- [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu) as Scrum master.
-- Priyanka Thambabathula as Designer.
+- [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996) as back-end developer.
+- [Giridhar Addagalla](https://github.com/giridhar196/giridhar196) as full-stack developer.
+- [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu) as Front-end deverloper.
+- [Priyanka Thambabathula](https://github.com/Priyanka1818/Priyanka1818) as designer.
 
 ## Functional Requirements
 ## Bidder Qualifications
