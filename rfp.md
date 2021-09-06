@@ -3,7 +3,7 @@
 ## Statement of Purpose
 The main purpose of this application is to make people laugh whenever they open this application and they are capable of adding and editing their own jokes.The application is completely userfriendly to make people to use.
 ## Objective
-This app shows up a joke every time when the user opens it. The user can login, submit and edit a joke as it's a user-friendly app. It is multi-responsive and easy to handle. Smile maker is the prograssive web app, that helps to see the joke which are loaded from the global api. And one custom api which will be used to add or edit his own jokes using his login's.
+This app shows up a joke every time when the user opens it. The user can login, submit and edit a joke as it's a user-friendly app. It is multi-responsive and easy to handle. Smile maker is the prograssive web app, that helps to see the joke which are loaded from the global api. And one custom api which will be used to add or edit his/her own jokes using his/her login's.
 
 ## Client
 - Dr. Denise Case
@@ -24,19 +24,22 @@ This app shows up a joke every time when the user opens it. The user can login, 
 ### User
      - Email
      - Password
-     - Created On
+     - CreatedOn
      - Gender
-     - User Type
-     - User Name
+     - UserType
+     - UserName
      - Name
 
 ### Jokes-Api
-    - User Name
-    - Date Of Submit
+    - UserName
+    - DateOfSubmit
     - Joke-String
-    - Is Active
+    - IsActive
     - Name
 
+### Mockup Screen
+<img src="images/FunctionalScreens.png" alt="mokup screen" />  
+ 
 ## Bidder Qualifications
 ## Performance Metrics
 ## Schedule Duration
