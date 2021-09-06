@@ -42,7 +42,10 @@ This app shows up a joke every time when the user opens it. The user can login, 
 
 ### Mockup Screen
 <img src="images/FunctionalScreens.png" alt="mockup screen" />  
- 
+
+##### Logo Sample
+<img src="images/Logo_Sample.png" alt="Logo Sample"/>
+
 ## Bidder Qualifications
 ## Performance Metrics
 ## Schedule Duration
