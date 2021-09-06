@@ -13,22 +13,21 @@ This app shows up a joke every time when the user opens it. The user can login, 
 
 ## Functional Requirements
 ## Entities
+#User
+     -Email
+     -Password
+     -Created On
+     -Gender
+     -User Type
+     -User Name
+     -Name
 
-* User
--Email
--Password
--Created On
--Gender
--User Type
--User Name
--Name
-
-* Jokes-Api
--User Name
--Date Of Submit
--Joke-String
--Is Active
--Name
+#Jokes-Api
+    -User Name
+    -Date Of Submit
+    -Joke-String
+    -Is Active
+    -Name
 
 ## Bidder Qualifications
 ## Performance Metrics
