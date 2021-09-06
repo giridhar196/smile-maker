@@ -23,17 +23,17 @@ This app shows up a joke every time when the user opens it. The user can login, 
 ### User
      - Email
      - Password
-     - Created On
+     - CreatedOn
      - Gender
-     - User Type
-     - User Name
+     - UserType
+     - UserName
      - Name
 
 ### Jokes-Api
-    - User Name
-    - Date Of Submit
+    - UserName
+    - DateOfSubmit
     - Joke-String
-    - Is Active
+    - IsActive
     - Name
 
 ## Bidder Qualifications
