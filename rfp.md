@@ -10,10 +10,10 @@ This app shows up a joke every time when the user opens it. The user can login, 
 - Fall 2021
 ## Team Members and their roles
 
-- [Giridhar Addagalla](https://github.com/giridhar196/giridhar196) 
-- [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu) 
-- [Priyanka Thambabathula](https://github.com/Priyanka1818/Priyanka1818) 
-- [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996) 
+- [Giridhar Addagalla](https://github.com/giridhar196/giridhar196) - Product Owner
+- [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu) - Requirement specialist
+- [Priyanka Thambabathula](https://github.com/Priyanka1818/Priyanka1818) - Product adviser
+- [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996) - Decision maker
 
 ## Functional Requirements
 ## Entities
