@@ -9,12 +9,14 @@ This app shows up a joke every time when the user opens it. The user can login, 
 - 44691-02 Graduate Directed Project
 - Fall 2021
 ## Team Members and their roles
-- [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996) 
+
 - [Giridhar Addagalla](https://github.com/giridhar196/giridhar196) 
 - [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu) 
 - [Priyanka Thambabathula](https://github.com/Priyanka1818/Priyanka1818) 
+- [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996) 
 
 ## Functional Requirements
+## Entities
 ## Bidder Qualifications
 ## Performance Metrics
 ## Schedule Duration
