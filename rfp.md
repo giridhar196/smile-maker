@@ -23,12 +23,12 @@ This app shows up a joke every time when the user opens it. The user can login, 
      - User Name
      - Name
 
-#Jokes-Api
-    -User Name
-    -Date Of Submit
-    -Joke-String
-    -Is Active
-    -Name
+# Jokes-Api
+    - User Name
+    - Date Of Submit
+    - Joke-String
+    - Is Active
+    - Name
 
 ## Bidder Qualifications
 ## Performance Metrics
