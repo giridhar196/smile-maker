@@ -9,7 +9,7 @@ This app shows up a joke every time when the user opens it. The user can login, 
 - [Giridhar Addagalla](https://github.com/giridhar196/giridhar196) 
 - [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu) 
 - [Priyanka Thambabathula](https://github.com/Priyanka1818/Priyanka1818) 
-- - [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996) 
+- [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996) 
 
 ## Functional Requirements
 ## Bidder Qualifications
