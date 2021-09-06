@@ -37,9 +37,10 @@ This app shows up a joke every time when the user opens it. The user can login, 
     - Joke-String
     - IsActive
     - Name
-
+### ER Diagram
+<img src=images/ER_Diagram.png" alt="ER_Diagram"/>
 ### Mockup Screen
-<img src="images/FunctionalScreens.png" alt="mokup screen" />  
+<img src="images/FunctionalScreens.png" alt="mockup screen" />  
  
 ## Bidder Qualifications
 ## Performance Metrics
