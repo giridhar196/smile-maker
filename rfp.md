@@ -19,6 +19,34 @@ This app shows up a joke every time when the user opens it. The user can login, 
 
 ## Functional Requirements
 
+#### Login/Signup page
+1. Required User name password as mandatory.
+2. Login button to process or validate the user name and password.
+3. Skip login button to navigate to home screen for skipping the signup process.
+
+#### Home Page
+1. Contain a joke which will refresh on new page load.
+2. Refresh button to load new joke.
+3. More joke button to navigate to all jokes.
+4. Add new joke to for the signin user to add new joke.
+
+#### Header  
+1. Home page logo which can navigate to the home screen.
+2. More jokes link is used to navigate to the more jokes pages.
+3. Add new joke link will apheer when user login in to the application.
+4. Account details link will be used to navigate to the accounts page, This link will be enable when user signin only.
+
+#### Account Details Page
+1. Edit button to make the details edits.
+2. Can enable user to edit username.
+3. Change password to update password.
+4. Can change the email address and submit.
+
+#### Add New Joke
+1. Make user to add joke.
+2. User can select the soke to be displayed as anemonous or display user name
+3. Enter new joke.
+4. Submit button to submit joke.
 
 ## Entities
 
@@ -34,7 +62,7 @@ This app shows up a joke every time when the user opens it. The user can login, 
 ### Jokes-Api
     - UserName
     - DateOfSubmit
-    - Joke-String
+    - Joke_Text
     - IsActive
     - Name
 
