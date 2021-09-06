@@ -17,6 +17,8 @@ This app shows up a joke every time when the user opens it. The user can login, 
 - [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996) - Decision maker
 
 ## Functional Requirements
+
+
 ## Entities
 
 ### User
@@ -35,6 +37,9 @@ This app shows up a joke every time when the user opens it. The user can login, 
     - Is Active
     - Name
 
+### Mockup Screen
+<img src="images/FunctionalScreens.png" alt="mokup screen" />  
+ 
 ## Bidder Qualifications
 ## Performance Metrics
 ## Schedule Duration
