@@ -13,7 +13,6 @@ This app shows up a joke every time when the user opens it. The user can login, 
 
 ## Functional Requirements
 ## Entities
-
 -User
      -Email
      -Password
