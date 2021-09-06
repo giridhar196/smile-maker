@@ -12,6 +12,7 @@ This app shows up a joke every time when the user opens it. The user can login, 
 - [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996) 
 
 ## Functional Requirements
+## Entities
 ## Bidder Qualifications
 ## Performance Metrics
 ## Schedule Duration
