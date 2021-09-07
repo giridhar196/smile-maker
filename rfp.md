@@ -80,7 +80,11 @@ This app shows up a joke every time when the user opens it. The user can login, 
 
 ## Bidder Qualifications
 
-
+- Product based application which can maintain self.
+- Ready to use public apis with less cost.
+- Make sure to develop othe features if extension required.
+- Must complete with in 45 working days and 5 working days for acceptance testing and 3 days for prod release and fixes.
+- Max of 2 developers.
 
 ## Performance Metrics
 
