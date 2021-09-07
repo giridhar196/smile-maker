@@ -82,14 +82,14 @@ This app shows up a joke every time when the user opens it. The user can login, 
 
 - Product based application which can maintain self.
 - Ready to use public apis with less cost.
-- Make sure to develop othe features if extension required.
-- Must complete with in 45 working days and 5 working days for acceptance testing and 3 days for prod release and fixes.
+- Make sure to develop other features if extension required.
+- Must complete within 45 working days and 5 working days for acceptance testing and 3 days for prod release and fixes.
 - Max of 2 developers.
 
 ## Performance Metrics
 
 - Responsive application in all kinds or devices. 
-- Eg: Android devices all screen sizes, IOS devices, and Desktop and laptos screens.
+- Eg: Android devices all screen sizes, IOS devices, and Desktop and laptops screens.
 - Page load max weight time for home screen is 5 seconds - 10 seconds
 - Home page load weight is less than 100kb.
 
@@ -99,6 +99,6 @@ This app shows up a joke every time when the user opens it. The user can login, 
 
 ## Development Details
 
-- Front end with CSHTML
+- Front end with CSS and HTML
 - Backend With c# DotNet
 - Api's for jokes Any public api that can used for free.
