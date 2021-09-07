@@ -67,17 +67,31 @@ This app shows up a joke every time when the user opens it. The user can login, 
     - IsActive
     - Name
 ### ER Diagram
+
 <img src="images/ER_Diagram.png" alt="ER_Diagram"/>
 
 ### Mockup Screen
+
 <img src="images/FunctionalScreens.png" alt="mockup screen" />  
 
 ### Logo Sample
+
 <img src="images/Logo_Sample.png" alt="Logo Sample"/>
 
 ## Bidder Qualifications
+
+
+
 ## Performance Metrics
+
+
+
 ## Schedule Duration
 - 18-Aug-2021 to 5-Dec-2021 Requirement Gathering, Specifications and basic mockup designs.
 - 12-jan-2022 to 15-Apr-2022 Development,Testing and Release.
+
 ## Development Details
+
+- Front end with CSHTML
+- Backend With c# DotNet
+- Api's for jokes Any public api that can used for free.
