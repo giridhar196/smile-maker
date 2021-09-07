@@ -84,7 +84,10 @@ This app shows up a joke every time when the user opens it. The user can login, 
 
 ## Performance Metrics
 
-
+- Responsive application in all kinds or devices. 
+- Eg: Android devices all screen sizes, IOS devices, and Desktop and laptos screens.
+- Page load max weight time for home screen is 5 seconds - 10 seconds
+- Home page load weight is less than 100kb.
 
 ## Schedule Duration
 - 18-Aug-2021 to 5-Dec-2021 Requirement Gathering, Specifications and basic mockup designs.
