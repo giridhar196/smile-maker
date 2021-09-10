@@ -94,7 +94,7 @@ This app shows up a joke every time when the user opens it. The user can login, 
 - Home page load weight is less than 100kb.
 
 ## Schedule Duration
-- 18-Aug-2021 to 5-Dec-2021 Requirement Gathering, Specifications and basic mockup designs.
+- 18-Aug-2021 to 24-Nov-2021 Requirement Gathering, Specifications and basic mockup designs.
 - 12-jan-2022 to 15-Apr-2022 Development,Testing and Release.
 
 ## Development Details
